@@ -1,15 +1,12 @@
 ---
 HU:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{city}}
-
     {{street}}
-
     {{postalcode}}
-
-    {{country}}'
+    {{country}}
   alpha2: HU
   alpha3: HUN
   country_code: '36'
@@ -25,7 +22,7 @@ HU:
   - Ungarn
   - Hongrie
   - Hungría
-  - ハンガリー
+  - "ハンガリー"
   - Hongarije
   national_destination_code_lengths:
   - 2

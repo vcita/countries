@@ -1,13 +1,11 @@
 ---
 YE:
   continent: Asia
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: YE
   alpha3: YEM
   country_code: '967'
@@ -20,10 +18,10 @@ YE:
   name: Yemen
   names:
   - Yemen
-  - اليمن
+  - "اليمن"
   - Jemen
   - Yémen
-  - イエメン
+  - "イエメン"
   national_destination_code_lengths:
   - 2
   national_number_lengths:

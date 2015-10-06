@@ -1,13 +1,11 @@
 ---
 BA:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: BA
   alpha3: BIH
   country_code: '387'
@@ -23,7 +21,7 @@ BA:
   - Bosnien und Herzegowina
   - Bosnie et Herzégovine
   - Bosnia y Herzegovina
-  - ボスニア・ヘルツェゴビナ
+  - "ボスニア・ヘルツェゴビナ"
   - Bosnië en Herzegovina
   - Bosnia Herzegovina
   national_destination_code_lengths:

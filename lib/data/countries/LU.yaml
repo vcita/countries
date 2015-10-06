@@ -1,13 +1,11 @@
 ---
 LU:
   continent: Europe
-  address_format: ! '{{recipient}}
-
+  address_format: |-
+    {{recipient}}
     {{street}}
-
     {{postalcode}} {{city}}
-
-    {{country}}'
+    {{country}}
   alpha2: LU
   alpha3: LUX
   country_code: '352'
@@ -22,7 +20,7 @@ LU:
   - Luxembourg
   - Luxemburg
   - Luxemburgo
-  - ルクセンブルク
+  - "ルクセンブルク"
   national_destination_code_lengths:
   - 2
   national_number_lengths:
