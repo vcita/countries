@@ -1789,7 +1789,7 @@ AM:
     mr: "अमेरिका"
     ms: Armenia
     mg: 
-    mt: Arġentina
+    mt:
     mo: 
     mn: "Армен"
     na: 
@@ -1861,11 +1861,11 @@ AM:
     cy: Armenia
     wa: "Årmeneye"
     wo: Armeeni
-    xh: Argentina
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Argentina
+    zu:
   translated_names:
   - Armenië
   - Armenia
@@ -1920,7 +1920,6 @@ AM:
   - "Āmenia"
   - "अमेरिका"
   - Armenia
-  - Arġentina
   - "Армен"
   - "अरमेनिया"
   - Armenia
@@ -1957,8 +1956,6 @@ AM:
   - Armenia
   - "Årmeneye"
   - Armeeni
-  - Argentina
-  - I-Argentina
 AN:
   translations:
     aa: 
@@ -4309,7 +4306,7 @@ AX:
     mr: "अलंद आयलॅंडस्"
     ms: Kepulauan Åland
     mg: 
-    mt: Irlanda
+    mt:
     mo: 
     mn: "Соломоны арлууд"
     na: 
@@ -4322,7 +4319,7 @@ AX:
     nb: "Åland"
     'no': 
     ny: 
-    oc: Irlanda
+    oc:
     oj: 
     or: "ଆଲାଣ୍ଡ ଦ୍ବୀପ"
     om: 
@@ -4381,11 +4378,11 @@ AX:
     cy: Ynysoedd Åland
     wa: Iyes Åland
     wo: "Åland Islands"
-    xh: Ireland
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Irelandi
+    zu:
   translated_names:
   - "Åland Islands"
   - Ishujt Åland
@@ -4440,12 +4437,10 @@ AX:
   - Moutere Aaland
   - "अलंद आयलॅंडस्"
   - Kepulauan Åland
-  - Irlanda
   - "Соломоны арлууд"
   - "एल्याण्ड टापु"
   - "Åland"
   - "Åland"
-  - Irlanda
   - "ଆଲାଣ୍ଡ ଦ୍ବୀପ"
   - "ਏਲੈਂਡ ਟਾਪੂ"
   - "جزایر آلند"
@@ -4477,8 +4472,6 @@ AX:
   - Ynysoedd Åland
   - Iyes Åland
   - "Åland Islands"
-  - Ireland
-  - I-Irelandi
 AZ:
   translations:
     aa: 
@@ -6549,7 +6542,7 @@ BH:
     mr: "बहारिन"
     ms: Bahrain
     mg: 
-    mt: Brażil
+    mt:
     mo: 
     mn: Bahrain
     na: 
@@ -6680,7 +6673,6 @@ BH:
   - Bahrain
   - "बहारिन"
   - Bahrain
-  - Brażil
   - Bahrain
   - "बहराइन"
   - Bahrain
@@ -9067,7 +9059,7 @@ BS:
     mr: "बहामाज्"
     ms: Bahamas
     mg: 
-    mt: Panama
+    mt:
     mo: 
     mn: Bahamas
     na: 
@@ -9139,11 +9131,11 @@ BS:
     cy: Y Bahamas
     wa: Bahamas
     wo: Bahamas
-    xh: Panama
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Panama
+    zu:
   translated_names:
   - Bahamas
   - Bahamas
@@ -9198,7 +9190,6 @@ BS:
   - Bahamas
   - "बहामाज्"
   - Bahamas
-  - Panama
   - Bahamas
   - "बहामास"
   - Bahamas
@@ -9235,8 +9226,6 @@ BS:
   - Y Bahamas
   - Bahamas
   - Bahamas
-  - Panama
-  - I-Panama
 BT:
   translations:
     aa: 
@@ -9693,7 +9682,7 @@ BV:
     uk: "Острів Буве"
     ur: 
     uz: 
-    ve: Faroe Islands
+    ve:
     vi: Quần đảo Bu-vê
     vo: 
     cy: Ynys Bouvet
@@ -9790,7 +9779,6 @@ BV:
   - Bouvet Adası
   - "بۇۋېت ئارىلى"
   - "Острів Буве"
-  - Faroe Islands
   - Quần đảo Bu-vê
   - Ynys Bouvet
   - Iye Bouvet
@@ -10187,7 +10175,7 @@ BY:
     mr: "बेलारुस"
     ms: Belarus
     mg: 
-    mt: Peru
+    mt:
     mo: 
     mn: "Белорусс"
     na: 
@@ -10318,7 +10306,6 @@ BY:
   - Pērara
   - "बेलारुस"
   - Belarus
-  - Peru
   - "Белорусс"
   - "बेलारूस"
   - Kviterussland
@@ -10467,7 +10454,7 @@ BZ:
     mr: "बेलिझ"
     ms: Belize
     mg: 
-    mt: Belġju
+    mt:
     mo: 
     mn: Belize
     na: 
@@ -10480,7 +10467,7 @@ BZ:
     nb: Belize
     'no': 
     ny: 
-    oc: Bèlgica
+    oc:
     oj: 
     or: "ବେଲିଜ"
     om: 
@@ -10539,7 +10526,7 @@ BZ:
     cy: Belîs
     wa: Belize
     wo: Beliis
-    xh: Belgium
+    xh:
     yi: 
     yo: 
     za: 
@@ -10598,7 +10585,6 @@ BZ:
   - Belize
   - "बेलिझ"
   - Belize
-  - Belġju
   - Belize
   - "बेलिज"
   - Belize
@@ -10635,7 +10621,6 @@ BZ:
   - Belîs
   - Belize
   - Beliis
-  - Belgium
   - Isi-Bhelijiyamu
 CA:
   translations:
@@ -11587,7 +11572,7 @@ CF:
     mr: "सेंट्रल आफ्रिकन रिपब्लिक"
     ms: Republik Afrika Tengah
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Төв африкын ард улс"
     na: 
@@ -11659,11 +11644,11 @@ CF:
     cy: Gweriniaeth Canol Affrica
     wa: Cintrafrike
     wo: Republik bu Santar Afrik
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Sentraal-Afrikaanse Republiek
   - Republika e Afrikës Qendrore
@@ -11718,7 +11703,6 @@ CF:
   - Central African Republic
   - "सेंट्रल आफ्रिकन रिपब्लिक"
   - Republik Afrika Tengah
-  - Repubblika Dominikana
   - "Төв африкын ард улс"
   - "केन्द्रिय अफ्रिकी गणराज्य"
   - Den sentralafrikanske republikken
@@ -11755,8 +11739,6 @@ CF:
   - Gweriniaeth Canol Affrica
   - Cintrafrike
   - Republik bu Santar Afrik
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 CG:
   translations:
     aa: 
@@ -15787,7 +15769,7 @@ CZ:
     mr: "झेक रिपब्लिक"
     ms: Republik Czech
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Чех ард улс"
     na: 
@@ -15859,11 +15841,11 @@ CZ:
     cy: Y Weriniaeth Tsiec
     wa: Tchekeye
     wo: Republik bu Cek
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Tsjeggiese Republiek
   - Republika Çeke
@@ -15918,7 +15900,6 @@ CZ:
   - Whenua Tīeke
   - "झेक रिपब्लिक"
   - Republik Czech
-  - Repubblika Dominikana
   - "Чех ард улс"
   - Czech गणराज्य
   - Tsjekkia
@@ -15955,8 +15936,6 @@ CZ:
   - Y Weriniaeth Tsiec
   - Tchekeye
   - Republik bu Cek
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 DE:
   translations:
     aa: 
@@ -16907,7 +16886,7 @@ DM:
     mr: "डॉमिनिका"
     ms: Dominica
     mg: 
-    mt: Rumanija
+    mt:
     mo: 
     mn: "Доминик"
     na: 
@@ -16920,7 +16899,7 @@ DM:
     nb: Dominica
     'no': 
     ny: 
-    oc: Romania
+    oc:
     oj: 
     or: "ଡୋମିନୀକା"
     om: 
@@ -16979,11 +16958,11 @@ DM:
     cy: Dominica
     wa: Dominike
     wo: Dominika
-    xh: Romania
-    yi: 
+    xh:
+    yi:
     yo: 
     za: 
-    zu: I-Romaniya
+    zu:
   translated_names:
   - Dominica
   - Dominika
@@ -17038,12 +17017,10 @@ DM:
   - Tominika
   - "डॉमिनिका"
   - Dominica
-  - Rumanija
   - "Доминик"
   - "डोमिनिका"
   - Dominica
   - Dominica
-  - Romania
   - "ଡୋମିନୀକା"
   - "ਡੋਮੀਨੀਆ"
   - "دومینیکا"
@@ -17075,8 +17052,6 @@ DM:
   - Dominica
   - Dominike
   - Dominika
-  - Romania
-  - I-Romaniya
 DO:
   translations:
     aa: 
@@ -17467,7 +17442,7 @@ DZ:
     mr: "अल्जिरिया"
     ms: Algeria
     mg: 
-    mt: Bulgarija
+    mt:
     mo: 
     mn: "Алжир"
     na: 
@@ -17539,11 +17514,11 @@ DZ:
     cy: Algeria
     wa: Aldjereye
     wo: Aljeeri
-    xh: Bulgaria
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Buligariya
+    zu:
   translated_names:
   - Algerië
   - Algjeria
@@ -17598,7 +17573,6 @@ DZ:
   - Algeria
   - "अल्जिरिया"
   - Algeria
-  - Bulgarija
   - "Алжир"
   - "अल्जेरिया"
   - Algerie
@@ -17635,8 +17609,6 @@ DZ:
   - Algeria
   - Aldjereye
   - Aljeeri
-  - Bulgaria
-  - I-Buligariya
 EC:
   translations:
     aa: 
@@ -19427,7 +19399,7 @@ ET:
     mr: "इथिओपिया"
     ms: Ethiopia
     mg: 
-    mt: Estonja
+    mt:
     mo: 
     mn: "Этопи"
     na: 
@@ -19499,11 +19471,11 @@ ET:
     cy: Ethiopia
     wa: Etiopeye
     wo: Ecoopi
-    xh: Estonia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Estoniya
+    zu:
   translated_names:
   - Etiopië
   - Etiopia
@@ -19558,7 +19530,6 @@ ET:
   - Etiopia
   - "इथिओपिया"
   - Ethiopia
-  - Estonja
   - "Этопи"
   - "इथियोपिया"
   - Etiopia
@@ -19595,8 +19566,6 @@ ET:
   - Ethiopia
   - Etiopeye
   - Ecoopi
-  - Estonia
-  - I-Estoniya
 FI:
   translations:
     aa: 
@@ -20827,7 +20796,7 @@ FO:
     mr: "फेरो आयलॅंडस्"
     ms: Kepulauan Faroe
     mg: 
-    mt: Irlanda
+    mt:
     mo: 
     mn: Faroe Islands
     na: 
@@ -20899,11 +20868,11 @@ FO:
     cy: Ynysoedd y Ffaro
     wa: Iyes Faeroyé
     wo: Iil yu Faarow
-    xh: Ireland
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Irelandi
+    zu:
   translated_names:
   - Faroëreilande
   - Ishujt Faroe
@@ -20958,7 +20927,6 @@ FO:
   - Moutere Faroe
   - "फेरो आयलॅंडस्"
   - Kepulauan Faroe
-  - Irlanda
   - Faroe Islands
   - "फारो टापु"
   - Færøyane
@@ -20995,8 +20963,6 @@ FO:
   - Ynysoedd y Ffaro
   - Iyes Faeroyé
   - Iil yu Faarow
-  - Ireland
-  - I-Irelandi
 FR:
   translations:
     aa: 
@@ -22227,7 +22193,7 @@ GE:
     mr: "जॉर्जिया"
     ms: Georgia
     mg: 
-    mt: Serbja
+    mt:
     mo: 
     mn: "Георги"
     na: 
@@ -22299,11 +22265,11 @@ GE:
     cy: Georgia
     wa: Djeyordjeye
     wo: Jeoorji
-    xh: Serbia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Serbiya
+    zu:
   translated_names:
   - Georgië
   - Gjeorgjia
@@ -22358,7 +22324,6 @@ GE:
   - Hōria
   - "जॉर्जिया"
   - Georgia
-  - Serbja
   - "Георги"
   - "जर्जिया"
   - Georgia
@@ -22395,8 +22360,6 @@ GE:
   - Georgia
   - Djeyordjeye
   - Jeoorji
-  - Serbia
-  - I-Serbiya
 GF:
   translations:
     aa: 
@@ -23627,7 +23590,7 @@ GL:
     mr: "ग्रीनलॅंड"
     ms: Greenland
     mg: 
-    mt: Grenada
+    mt:
     mo: 
     mn: "Греенланд"
     na: 
@@ -23699,11 +23662,11 @@ GL:
     cy: Greenland
     wa: Groenlande
     wo: Greenland
-    xh: Grenada
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Grenada
+    zu:
   translated_names:
   - Groenland
   - Greenland
@@ -23758,7 +23721,6 @@ GL:
   - Greenland
   - "ग्रीनलॅंड"
   - Greenland
-  - Grenada
   - "Греенланд"
   - "ग्रिनल्याण्ड"
   - Grønland
@@ -23795,8 +23757,6 @@ GL:
   - Greenland
   - Groenlande
   - Greenland
-  - Grenada
-  - I-Grenada
 GM:
   translations:
     aa: 
@@ -23907,7 +23867,7 @@ GM:
     mr: "गॅंबिया"
     ms: Gambia
     mg: 
-    mt: "Ġamajka"
+    mt:
     mo: 
     mn: "Гамби"
     na: 
@@ -23979,11 +23939,11 @@ GM:
     cy: Gambia
     wa: Gambeye
     wo: Gaambi
-    xh: Jamaica
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I Jamayikha
+    zu:
   translated_names:
   - Gambië
   - Gambia
@@ -24075,8 +24035,6 @@ GM:
   - Gambia
   - Gambeye
   - Gaambi
-  - Jamaica
-  - I Jamayikha
 GN:
   translations:
     aa: 
@@ -25867,7 +25825,7 @@ GU:
     mr: "ग्वाम"
     ms: Guam
     mg: 
-    mt: Gwatemala
+    mt:
     mo: 
     mn: Guam
     na: 
@@ -25939,11 +25897,11 @@ GU:
     cy: Guam
     wa: Gwam
     wo: Guam
-    xh: Guatemala
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Guwathemala
+    zu:
   translated_names:
   - Guam
   - Guam
@@ -25998,7 +25956,6 @@ GU:
   - Kuamu
   - "ग्वाम"
   - Guam
-  - Gwatemala
   - Guam
   - "ग्वाम"
   - Guam
@@ -26035,8 +25992,6 @@ GU:
   - Guam
   - Gwam
   - Guam
-  - Guatemala
-  - I-Guwathemala
 GW:
   translations:
     aa: 
@@ -29579,11 +29534,11 @@ IN:
     cy: India
     wa: Inde
     wo: Eend
-    xh: Indonesia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Indoneshiya
+    zu:
   translated_names:
   - Indië
   - India
@@ -29675,8 +29630,6 @@ IN:
   - India
   - Inde
   - Eend
-  - Indonesia
-  - I-Indoneshiya
 IO:
   translations:
     aa: 
@@ -30347,7 +30300,7 @@ IR:
     mr: "इराण, इस्लामिक रिपब्लिक ऑफ"
     ms: Iran, Islamic Republic of
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Солонгос ард улс"
     na: 
@@ -30360,7 +30313,7 @@ IR:
     nb: Iran, Den islamske republikk
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
     om: 
@@ -30413,17 +30366,17 @@ IR:
     uk: "Іран"
     ur: 
     uz: 
-    ve: Czech Republic
+    ve:
     vi: Ba Tư, Cộng hoà Hồi giáo
     vo: 
     cy: Iran, Gweriniaeth Islamaidd
     wa: Iran
     wo: Iraan, Republik Islaamik bu
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Iran
   - Republika Islamike e Iranit
@@ -30478,12 +30431,10 @@ IR:
   - "Īrāna"
   - "इराण, इस्लामिक रिपब्लिक ऑफ"
   - Iran, Islamic Republic of
-  - Repubblika Dominikana
   - "Солонгос ард улс"
   - "इरान, इस्लामिक गणराज्य"
   - Iran
   - Iran, Den islamske republikk
-  - Republica Dominicana
   - "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
   - "ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ"
   - "ایران، جمهوری اسلامی"
@@ -30510,13 +30461,10 @@ IR:
   - "İran İslâm Cumhuriyeti"
   - "ئىران ئىسلام جۇمھۇرىيىتى"
   - "Іран"
-  - Czech Republic
   - Ba Tư, Cộng hoà Hồi giáo
   - Iran, Gweriniaeth Islamaidd
   - Iran
   - Iraan, Republik Islaamik bu
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 IS:
   translations:
     aa: 
@@ -31747,7 +31695,7 @@ JO:
     mr: "जॉर्डन"
     ms: Jordan
     mg: 
-    mt: Korean
+    mt:
     mo: 
     mn: "Ёрдан"
     na: 
@@ -31760,7 +31708,7 @@ JO:
     nb: Jordan
     'no': 
     ny: 
-    oc: Còrean
+    oc:
     oj: 
     or: "ଜୋର୍ଡାନ"
     om: 
@@ -31819,11 +31767,11 @@ JO:
     cy: Gwlad Yr Iorddonen
     wa: Djordaneye
     wo: Jordaani
-    xh: isiKorea
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Isi-Koreyani
+    zu:
   translated_names:
   - Jordanië
   - Jordania
@@ -31878,12 +31826,10 @@ JO:
   - Jordan
   - "जॉर्डन"
   - Jordan
-  - Korean
   - "Ёрдан"
   - "जोर्डन"
   - Jordan
   - Jordan
-  - Còrean
   - "ଜୋର୍ଡାନ"
   - "ਜਾਰਡਨ"
   - "اردن"
@@ -31915,8 +31861,6 @@ JO:
   - Gwlad Yr Iorddonen
   - Djordaneye
   - Jordaani
-  - isiKorea
-  - Isi-Koreyani
 JP:
   translations:
     aa: 
@@ -34267,7 +34211,7 @@ KR:
     mr: "कोरिया, रिपब्लिक ऑफ"
     ms: Korea, Republic of
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Солонгос ард улс"
     na: 
@@ -34280,7 +34224,7 @@ KR:
     nb: Korea, Republikken
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "କୋରିଆ, ଗଣତନ୍ତ୍ର"
     om: 
@@ -34333,17 +34277,17 @@ KR:
     uk: "Південна Корея"
     ur: 
     uz: 
-    ve: Czech Republic
+    ve:
     vi: Cộng hoà Nam Hàn
     vo: 
     cy: Corëa, Gweriniaeth
     wa: Corêye (nonnrece)
     wo: Koore, Republik bu
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Suid-Korea
   - Korea, Republika e
@@ -34398,12 +34342,10 @@ KR:
   - Kōrea-ki-te-tonga
   - "कोरिया, रिपब्लिक ऑफ"
   - Korea, Republic of
-  - Repubblika Dominikana
   - "Солонгос ард улс"
   - "कोरियाको गणराज्य"
   - Sør-Korea
   - Korea, Republikken
-  - Republica Dominicana
   - "କୋରିଆ, ଗଣତନ୍ତ୍ର"
   - "ਕੋਰੀਆ ਗਣਰਾਜ"
   - "جمهوری کره"
@@ -34430,13 +34372,10 @@ KR:
   - Kore Cumhuriyeti
   - "كورېيە"
   - "Південна Корея"
-  - Czech Republic
   - Cộng hoà Nam Hàn
   - Corëa, Gweriniaeth
   - Corêye (nonnrece)
   - Koore, Republik bu
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 KW:
   translations:
     aa: 
@@ -35107,7 +35046,7 @@ KZ:
     mr: "कझाकिस्तान"
     ms: Kazakhstan
     mg: 
-    mt: Tajwan
+    mt:
     mo: 
     mn: "Казакстан"
     na: 
@@ -35120,7 +35059,7 @@ KZ:
     nb: Kasakhstan
     'no': 
     ny: 
-    oc: Taiwan
+    oc:
     oj: 
     or: "କାଜାଖସ୍ତାନ"
     om: 
@@ -35179,11 +35118,11 @@ KZ:
     cy: Kazakhstan
     wa: Kazaxhtan
     wo: Kaasakestaan
-    xh: Taiwan
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Tayiwani
+    zu:
   translated_names:
   - Kazakstan
   - Kazakistan
@@ -35238,12 +35177,10 @@ KZ:
   - Katatānga
   - "कझाकिस्तान"
   - Kazakhstan
-  - Tajwan
   - "Казакстан"
   - "काजखास्तान"
   - Kasakhstan
   - Kasakhstan
-  - Taiwan
   - "କାଜାଖସ୍ତାନ"
   - "ਕਜ਼ਾਕਸਤਾਨ"
   - "قزاقستان"
@@ -35275,8 +35212,6 @@ KZ:
   - Kazakhstan
   - Kazaxhtan
   - Kaasakestaan
-  - Taiwan
-  - I-Tayiwani
 LA:
   translations:
     aa: 
@@ -36787,7 +36722,7 @@ LR:
     mr: "लायबेरिया"
     ms: Liberia
     mg: 
-    mt: Serbja
+    mt:
     mo: 
     mn: Liberia
     na: 
@@ -36859,11 +36794,11 @@ LR:
     cy: Liberia
     wa: Liberia
     wo: Libeeria
-    xh: Serbia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Serbiya
+    zu:
   translated_names:
   - Liberië
   - Liberia
@@ -36918,7 +36853,6 @@ LR:
   - Liberia
   - "लायबेरिया"
   - Liberia
-  - Serbja
   - Liberia
   - "लिबेरीया"
   - Liberia
@@ -36955,8 +36889,6 @@ LR:
   - Liberia
   - Liberia
   - Libeeria
-  - Serbia
-  - I-Serbiya
 LS:
   translations:
     aa: 
@@ -38083,7 +38015,7 @@ LY:
     ab: 
     af: Libya
     ak: 
-    sq: Liberia
+    sq:
     am: Libya
     ar: "ليبيا"
     an: 
@@ -38092,7 +38024,7 @@ LY:
     av: 
     ae: 
     ay: 
-    az: Liberiya
+    az:
     ba: 
     bm: 
     eu: Libia
@@ -38164,13 +38096,13 @@ LY:
     kk: "Ливия"
     km: "លីបេរីយ៉ា"
     ki: 
-    rw: Liberiya
+    rw:
     ky: 
     kv: 
     kg: 
     ko: "리비아"
     kj: 
-    ku: Lîberya
+    ku:
     lo: 
     la: 
     lv: Lībija
@@ -38185,9 +38117,9 @@ LY:
     ml: "ലൈബീരിയ"
     mi: Libya
     mr: "लिबया"
-    ms: Liberia
+    ms:
     mg: 
-    mt: Serbja
+    mt:
     mo: 
     mn: Libya
     na: 
@@ -38200,7 +38132,7 @@ LY:
     nb: Libya
     'no': 
     ny: 
-    oc: Libèria
+    oc:
     oj: 
     or: "ଲୀବିୟା"
     om: 
@@ -38232,46 +38164,44 @@ LY:
     sr: "Либија"
     ss: 
     su: 
-    sw: Liberia
+    sw:
     sv: Libyen
     ty: 
     ta: "லைபீரியா"
     tt: "Либериа"
     te: "లిబయా"
     tg: 
-    tl: Liberia
+    tl:
     th: "ลิเบีย"
     bo: 
     ti: Libya
     to: 
     tn: 
     ts: 
-    tk: Liberiýa
+    tk:
     tr: Libya
     tw: 
     ug: "لىۋىيە"
     uk: "Лівія"
     ur: 
     uz: 
-    ve: Liberia
+    ve:
     vi: Li-bi
     vo: 
     cy: Libya
     wa: Libeye
-    wo: Libeeria
-    xh: Serbia
+    wo:
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Serbiya
+    zu:
   translated_names:
   - Libya
-  - Liberia
   - Libya
   - "ليبيا"
   - "Լիբիա"
   - "লিবিয়া"
-  - Liberiya
   - Libia
   - "Лівія"
   - "লিবিয়া"
@@ -38308,22 +38238,17 @@ LY:
   - "ಲೈಬೀರಿಯಾ"
   - "Ливия"
   - "លីបេរីយ៉ា"
-  - Liberiya
   - "리비아"
-  - Lîberya
   - Lībija
   - Libija
   - "Либија"
   - "ലൈബീരിയ"
   - Libya
   - "लिबया"
-  - Liberia
-  - Serbja
   - Libya
   - "लिबेया"
   - Libya
   - Libya
-  - Libèria
   - "ଲୀବିୟା"
   - "ਲੀਬਾਰੀਆ"
   - "لیبی"
@@ -38335,28 +38260,20 @@ LY:
   - "ලිබියාව"
   - Líbya
   - Libija
-  - Laybeeriya
   - Libia
   - "Либија"
-  - Liberia
   - Libyen
   - "லைபீரியா"
   - "Либериа"
   - "లిబయా"
-  - Liberia
   - "ลิเบีย"
   - Libya
-  - Liberiýa
   - Libya
   - "لىۋىيە"
   - "Лівія"
-  - Liberia
   - Li-bi
   - Libya
   - Libeye
-  - Libeeria
-  - Serbia
-  - I-Serbiya
 MA:
   translations:
     aa: 
@@ -39093,7 +39010,6 @@ MD:
     uk: "Республіка Молдова"
     ur: 
     uz: 
-    ve: Czech Republic
     vi: Nước Cộng Hoà Mổ-đô-vạ
     vo: 
     cy: Moldofa, Gweriniaeth
@@ -39190,7 +39106,6 @@ MD:
   - Moldova Cumhuriyeti
   - "مولدوۋا جۇمھۇرىيىتى"
   - "Республіка Молдова"
-  - Czech Republic
   - Nước Cộng Hoà Mổ-đô-vạ
   - Moldofa, Gweriniaeth
   - Moldova
@@ -40425,9 +40340,9 @@ MK:
     ml: "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്"
     mi: Makerōnia
     mr: "मॅसिडोनिया, रिपब्लिक ऑफ"
-    ms: Republik Dominican
+    ms:
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Солонгос ард улс"
     na: 
@@ -40440,7 +40355,7 @@ MK:
     nb: Makedonia, Republikken
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର"
     om: 
@@ -40493,17 +40408,17 @@ MK:
     uk: "Македонія"
     ur: 
     uz: 
-    ve: Czech Republic
+    ve:
     vi: Nước Cộng Hoà Ma-xê-đô-ni
     vo: 
     cy: Macedonia, Gweriniaeth
     wa: Macedoneye
     wo: Masedwaan, Republik bu
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Masedonië
   - Maqedonisë, Republika
@@ -40557,13 +40472,10 @@ MK:
   - "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്"
   - Makerōnia
   - "मॅसिडोनिया, रिपब्लिक ऑफ"
-  - Republik Dominican
-  - Repubblika Dominikana
   - "Солонгос ард улс"
   - "मसेडोनियाको गणराज्य"
   - Makedonia, Republikken
   - Makedonia, Republikken
-  - Republica Dominicana
   - "ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର"
   - "ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ"
   - "جمهوری مقدونیه"
@@ -40590,13 +40502,10 @@ MK:
   - Makedonya Cumhuriyeti
   - "ماكېدونىيە جۇمھۇرىيىتى"
   - "Македонія"
-  - Czech Republic
   - Nước Cộng Hoà Ma-xê-đô-ni
   - Macedonia, Gweriniaeth
   - Macedoneye
   - Masedwaan, Republik bu
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 ML:
   translations:
     aa: 
@@ -40707,7 +40616,7 @@ ML:
     mr: "माली"
     ms: Mali
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: "Мали"
     na: 
@@ -40779,11 +40688,11 @@ ML:
     cy: Mali
     wa: Mali
     wo: Mali
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Mali
   - Mali
@@ -40838,7 +40747,6 @@ ML:
   - Māri
   - "माली"
   - Mali
-  - Malta
   - "Мали"
   - "माली"
   - Mali
@@ -40875,8 +40783,6 @@ ML:
   - Mali
   - Mali
   - Mali
-  - Malta
-  - I-Malta
 MM:
   translations:
     aa: 
@@ -40987,7 +40893,7 @@ MM:
     mr: "म्यानमार"
     ms: Myanmar
     mg: 
-    mt: Panama
+    mt:
     mo: 
     mn: "Мянмар"
     na: 
@@ -41000,7 +40906,7 @@ MM:
     nb: Myanmar
     'no': 
     ny: 
-    oc: Panama
+    oc:
     oj: 
     or: "ବର୍ମା/ମ୍ଯାଂମାର"
     om: 
@@ -41059,11 +40965,11 @@ MM:
     cy: Myanmar
     wa: Birmaneye
     wo: Miyanmaar
-    xh: Panama
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Panama
+    zu:
   translated_names:
   - Mianmar
   - Birmania
@@ -41118,12 +41024,10 @@ MM:
   - Pēma
   - "म्यानमार"
   - Myanmar
-  - Panama
   - "Мянмар"
   - "म्यान्मार"
   - Myanmar
   - Myanmar
-  - Panama
   - "ବର୍ମା/ମ୍ଯାଂମାର"
   - "ਮਿਆਂਮਾਰ"
   - "میانمار"
@@ -41155,8 +41059,6 @@ MM:
   - Myanmar
   - Birmaneye
   - Miyanmaar
-  - Panama
-  - I-Panama
 MN:
   translations:
     aa: 
@@ -41547,7 +41449,7 @@ MO:
     mr: "मॅकाव्ह"
     ms: Macao
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: "Макао"
     na: 
@@ -41619,11 +41521,11 @@ MO:
     cy: Macao
     wa: Macao
     wo: Makaaw
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Macao
   - Makao
@@ -41678,7 +41580,6 @@ MO:
   - Macao
   - "मॅकाव्ह"
   - Macao
-  - Malta
   - "Макао"
   - "मकाओ"
   - Macao
@@ -41715,8 +41616,6 @@ MO:
   - Macao
   - Macao
   - Makaaw
-  - Malta
-  - I-Malta
 MP:
   translations:
     aa: 
@@ -42387,7 +42286,7 @@ MR:
     mr: "मॉरिटानिया"
     ms: Mauritania
     mg: 
-    mt: Litwanja
+    mt:
     mo: 
     mn: Mauritania
     na: 
@@ -42459,11 +42358,11 @@ MR:
     cy: Mauritania
     wa: Moritanreye
     wo: Móritaani
-    xh: Lithuania
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Lithuwaniya
+    zu:
   translated_names:
   - Mouritanië
   - Mauritania
@@ -42518,7 +42417,6 @@ MR:
   - Mauritānia
   - "मॉरिटानिया"
   - Mauritania
-  - Litwanja
   - Mauritania
   - "माउरिटानिया"
   - Mauritania
@@ -42555,8 +42453,6 @@ MR:
   - Mauritania
   - Moritanreye
   - Móritaani
-  - Lithuania
-  - I-Lithuwaniya
 MS:
   translations:
     aa: 
@@ -43227,7 +43123,7 @@ MU:
     mr: "मॉरिशस"
     ms: Mauritius
     mg: 
-    mt: Litwanja
+    mt:
     mo: 
     mn: Mauritius
     na: 
@@ -43299,11 +43195,11 @@ MU:
     cy: Mauritius
     wa: Iye Môrice
     wo: Móoris
-    xh: Lithuania
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Lithuwaniya
+    zu:
   translated_names:
   - Mauritius
   - Mauricius
@@ -43358,7 +43254,6 @@ MU:
   - Maurituhi
   - "मॉरिशस"
   - Mauritius
-  - Litwanja
   - Mauritius
   - "माउरिसस"
   - Mauritius
@@ -43395,8 +43290,6 @@ MU:
   - Mauritius
   - Iye Môrice
   - Móoris
-  - Lithuania
-  - I-Lithuwaniya
 MV:
   translations:
     aa: 
@@ -43507,7 +43400,7 @@ MV:
     mr: "मालदिव्हज्"
     ms: Maldiv
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: "Малдивс"
     na: 
@@ -43579,11 +43472,11 @@ MV:
     cy: Maldives
     wa: Maldives
     wo: Maldiif
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Maledive
   - Maldivet
@@ -43638,7 +43531,6 @@ MV:
   - Maldives
   - "मालदिव्हज्"
   - Maldiv
-  - Malta
   - "Малдивс"
   - "मालदिव्स"
   - Maldivane
@@ -43675,8 +43567,6 @@ MV:
   - Maldives
   - Maldives
   - Maldiif
-  - Malta
-  - I-Malta
 MW:
   translations:
     aa: 
@@ -43787,7 +43677,7 @@ MW:
     mr: "मलवी"
     ms: Malawi
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: "Малави"
     na: 
@@ -43859,11 +43749,11 @@ MW:
     cy: Malawi
     wa: Malawi
     wo: Malawi
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Malawi
   - Malawi
@@ -43918,7 +43808,6 @@ MW:
   - Marāwi
   - "मलवी"
   - Malawi
-  - Malta
   - "Малави"
   - "मालावी"
   - Malawi
@@ -43955,8 +43844,6 @@ MW:
   - Malawi
   - Malawi
   - Malawi
-  - Malta
-  - I-Malta
 MX:
   translations:
     aa: 
@@ -44347,7 +44234,7 @@ MY:
     mr: "मलेशिया"
     ms: Malaysia
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: "Малайз"
     na: 
@@ -44419,11 +44306,11 @@ MY:
     cy: Malaysia
     wa: Malaizeye
     wo: Maleesi
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Maleisië
   - Malajzia
@@ -44478,7 +44365,6 @@ MY:
   - Marēhia
   - "मलेशिया"
   - Malaysia
-  - Malta
   - "Малайз"
   - "मलेशिया"
   - Malaysia
@@ -44515,8 +44401,6 @@ MY:
   - Malaysia
   - Malaizeye
   - Maleesi
-  - Malta
-  - I-Malta
 MZ:
   translations:
     aa: 
@@ -45187,7 +45071,7 @@ NC:
     mr: "न्यू कॅलिडोनिया"
     ms: New Caledonia
     mg: 
-    mt: Maċedonja
+    mt:
     mo: 
     mn: "Шинэ калдени"
     na: 
@@ -45200,7 +45084,7 @@ NC:
     nb: Ny-Caledonia
     'no': 
     ny: 
-    oc: Macedònian
+    oc:
     oj: 
     or: "ନ୍ଯୁ କାଲେଡୋନିୟା"
     om: 
@@ -45259,11 +45143,11 @@ NC:
     cy: Caledonia Newydd
     wa: Nouve Caledoneye
     wo: Nuweel Kaledooni
-    xh: Macedonia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Makhedoniya
+    zu:
   translated_names:
   - Nieu-Kaledonië
   - Kaledonia e Re
@@ -45318,12 +45202,10 @@ NC:
   - New Caledonia
   - "न्यू कॅलिडोनिया"
   - New Caledonia
-  - Maċedonja
   - "Шинэ калдени"
   - "नयाँ क्यालेदोनिया"
   - Ny-Caledonia
   - Ny-Caledonia
-  - Macedònian
   - "ନ୍ଯୁ କାଲେଡୋନିୟା"
   - "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ"
   - "کالدونیای جدید"
@@ -45355,8 +45237,6 @@ NC:
   - Caledonia Newydd
   - Nouve Caledoneye
   - Nuweel Kaledooni
-  - Macedonia
-  - I-Makhedoniya
 NE:
   translations:
     aa: 
@@ -45813,7 +45693,7 @@ NF:
     uk: "Острів Норфолк"
     ur: 
     uz: 
-    ve: Faroe Islands
+    ve:
     vi: "Đảo Noa-phọ-khợ"
     vo: 
     cy: Ynys Norfolk
@@ -45910,7 +45790,6 @@ NF:
   - Norfolk Adası
   - "نورفولك ئارىلى"
   - "Острів Норфолк"
-  - Faroe Islands
   - "Đảo Noa-phọ-khợ"
   - Ynys Norfolk
   - Iye Norfolk
@@ -46027,7 +45906,7 @@ NG:
     mr: "नायजेरिया"
     ms: Nigeria
     mg: 
-    mt: Serbja
+    mt:
     mo: 
     mn: "Нигерь"
     na: 
@@ -46099,11 +45978,11 @@ NG:
     cy: Nigeria
     wa: Nidjeria
     wo: Nijeeria
-    xh: Serbia
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Serbiya
+    zu:
   translated_names:
   - Nigerië
   - Nigeria
@@ -46158,7 +46037,6 @@ NG:
   - Nigeria
   - "नायजेरिया"
   - Nigeria
-  - Serbja
   - "Нигерь"
   - "नाइजेरिया"
   - Nigeria
@@ -46195,8 +46073,6 @@ NG:
   - Nigeria
   - Nidjeria
   - Nijeeria
-  - Serbia
-  - I-Serbiya
 NI:
   translations:
     aa: 
@@ -46307,7 +46183,7 @@ NI:
     mr: "निकाराग्वा"
     ms: Nicaragua
     mg: 
-    mt: Paragwaj
+    mt:
     mo: 
     mn: "Никрагуа"
     na: 
@@ -46320,7 +46196,7 @@ NI:
     nb: Nicaragua
     'no': 
     ny: 
-    oc: Paraguai
+    oc:
     oj: 
     or: "ନିକାରାଗୁଆ"
     om: 
@@ -46379,11 +46255,11 @@ NI:
     cy: Nicaragua
     wa: Nicaragwa
     wo: Nikaraaguwa
-    xh: Paraguay
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Paraguwayi
+    zu:
   translated_names:
   - Nicaragua
   - Nikaragua
@@ -46438,12 +46314,10 @@ NI:
   - Nikarāhua
   - "निकाराग्वा"
   - Nicaragua
-  - Paragwaj
   - "Никрагуа"
   - "निकारागुवा"
   - Nicaragua
   - Nicaragua
-  - Paraguai
   - "ନିକାରାଗୁଆ"
   - "ਨਿਕਾਰਗੁਆ"
   - "نیکاراگوئه"
@@ -46475,8 +46349,6 @@ NI:
   - Nicaragua
   - Nicaragwa
   - Nikaraaguwa
-  - Paraguay
-  - I-Paraguwayi
 NL:
   translations:
     aa: 
@@ -49432,7 +49304,7 @@ PG:
     sr: "Папуа Нова Гвинеја"
     ss: 
     su: 
-    sw: Guinea
+    sw:
     sv: Papua Nya Guinea
     ty: 
     ta: "பாப்புவா-நியூகினி"
@@ -49538,7 +49410,6 @@ PG:
   - Papua New Guinea
   - Papúa Nueva Guinea
   - "Папуа Нова Гвинеја"
-  - Guinea
   - Papua Nya Guinea
   - "பாப்புவா-நியூகினி"
   - "Папуа Яңа Gуинеа"
@@ -50853,7 +50724,7 @@ PN:
     uk: "Піткерн"
     ur: 
     uz: 
-    ve: Pakistan
+    ve:
     vi: Pi-thợ-khenh
     vo: 
     cy: Pitcairn
@@ -50950,7 +50821,6 @@ PN:
   - Pitcairn
   - "پىتكاير"
   - "Піткерн"
-  - Pakistan
   - Pi-thợ-khenh
   - Pitcairn
   - Pitcairn
@@ -51907,7 +51777,7 @@ PW:
     mr: "पालाउ"
     ms: Palau
     mg: 
-    mt: Paragwaj
+    mt:
     mo: 
     mn: "Палау"
     na: 
@@ -51979,11 +51849,11 @@ PW:
     cy: Palau
     wa: Palawou
     wo: Palau
-    xh: Paraguay
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Paraguwayi
+    zu:
   translated_names:
   - Palau
   - Palau
@@ -52038,7 +51908,6 @@ PW:
   - Palau
   - "पालाउ"
   - Palau
-  - Paragwaj
   - "Палау"
   - "पालाउ"
   - Palau
@@ -52075,8 +51944,6 @@ PW:
   - Palau
   - Palawou
   - Palau
-  - Paraguay
-  - I-Paraguwayi
 PY:
   translations:
     aa: 
@@ -52467,7 +52334,7 @@ QA:
     mr: "कतार"
     ms: Qatar
     mg: 
-    mt: Malta
+    mt:
     mo: 
     mn: Qatar
     na: 
@@ -52539,11 +52406,11 @@ QA:
     cy: Qatar
     wa: Katar
     wo: Xatar
-    xh: Malta
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Malta
+    zu:
   translated_names:
   - Katar
   - Katari
@@ -52598,7 +52465,6 @@ QA:
   - Qatar
   - "कतार"
   - Qatar
-  - Malta
   - Qatar
   - "कतार"
   - Qatar
@@ -52635,8 +52501,6 @@ QA:
   - Qatar
   - Katar
   - Xatar
-  - Malta
-  - I-Malta
 RE:
   translations:
     aa: 
@@ -53212,7 +53076,7 @@ RS:
     av: 
     ae: 
     ay: 
-    az: Siriya
+    az:
     ba: 
     bm: 
     eu: Serbia
@@ -53242,7 +53106,7 @@ RS:
     eo: Serbio
     et: Serbia
     ee: 
-    fo: Aserbajdsjan
+    fo:
     fj: 
     fi: Serbia
     fr: Serbie
@@ -53284,7 +53148,7 @@ RS:
     kk: "Сербия"
     km: "ស៊ែរប៊ី"
     ki: 
-    rw: Azeribayijani
+    rw:
     ky: 
     kv: 
     kg: 
@@ -53305,7 +53169,7 @@ RS:
     ml: "സെര്‍ബിയ"
     mi: Serbia
     mr: "अझेर्बेजान"
-    ms: Azerbaijan
+    ms:
     mg: 
     mt: Serbja
     mo: 
@@ -53345,7 +53209,7 @@ RS:
     sm: 
     sn: 
     sd: 
-    so: Laybeeriya
+    so:
     st: 
     es: Serbia
     sc: 
@@ -53366,14 +53230,14 @@ RS:
     to: 
     tn: 
     ts: 
-    tk: Azerbeýjan
+    tk:
     tr: Sırbistan
     tw: 
     ug: "سېربىيە"
     uk: "Сербія"
     ur: 
     uz: 
-    ve: Syria
+    ve:
     vi: Xéc-bi
     vo: 
     cy: Serbia
@@ -53407,7 +53271,6 @@ RS:
   - Serbia
   - Serbio
   - Serbia
-  - Aserbajdsjan
   - Serbia
   - Serbie
   - "სერბია"
@@ -53428,7 +53291,6 @@ RS:
   - "ಸರ್ಬಿಯಾ"
   - "Сербия"
   - "ស៊ែរប៊ី"
-  - Azeribayijani
   - "세르비아"
   - Sirbistan
   - Serbija
@@ -53437,7 +53299,6 @@ RS:
   - "സെര്‍ബിയ"
   - Serbia
   - "अझेर्बेजान"
-  - Azerbaijan
   - Serbja
   - "Сири"
   - "सर्बिया"
@@ -53455,7 +53316,6 @@ RS:
   - "සර්බියාව"
   - Srbsko
   - Srbija
-  - Laybeeriya
   - Serbia
   - "Србија"
   - Serbia
@@ -53466,11 +53326,9 @@ RS:
   - Serbiya
   - "เซอร์เบีย"
   - "አዘርባጃን"
-  - Azerbeýjan
   - Sırbistan
   - "سېربىيە"
   - "Сербія"
-  - Syria
   - Xéc-bi
   - Serbia
   - Serbeye
@@ -53867,7 +53725,7 @@ RW:
     mr: "रवांडा"
     ms: Rwanda
     mg: 
-    mt: Kanada
+    mt:
     mo: 
     mn: Rwanda
     na: 
@@ -53939,11 +53797,11 @@ RW:
     cy: Rwanda
     wa: Rwanda
     wo: Ruwaanda
-    xh: Canada
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I Khanada
+    zu:
   translated_names:
   - Rwanda
   - Ruanda
@@ -53998,7 +53856,6 @@ RW:
   - Rāwana
   - "रवांडा"
   - Rwanda
-  - Kanada
   - Rwanda
   - "र्वान्डा"
   - Rwanda
@@ -54035,8 +53892,6 @@ RW:
   - Rwanda
   - Rwanda
   - Ruwaanda
-  - Canada
-  - I Khanada
 SA:
   translations:
     aa: 
@@ -57240,7 +57095,7 @@ SM:
     nb: San Marino
     'no': 
     ny: 
-    oc: Panama
+    oc:
     oj: 
     or: "ସେନ ମେରୀନୋ"
     om: 
@@ -57363,7 +57218,6 @@ SM:
   - "सान मारिनो"
   - San Marino
   - San Marino
-  - Panama
   - "ସେନ ମେରୀନୋ"
   - "ਸਾਨ ਮਾਰੀਨੂ"
   - "سان مارینو"
@@ -57787,7 +57641,7 @@ SO:
     mr: "सोमालिया"
     ms: Somalia
     mg: 
-    mt: Rumanija
+    mt:
     mo: 
     mn: "Сомали"
     na: 
@@ -57859,11 +57713,11 @@ SO:
     cy: Somalia
     wa: Somaleye
     wo: Somaali
-    xh: Romania
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Romaniya
+    zu:
   translated_names:
   - Somalië
   - Somalia
@@ -57918,7 +57772,6 @@ SO:
   - Somalia
   - "सोमालिया"
   - Somalia
-  - Rumanija
   - "Сомали"
   - "सोमालिया"
   - Somalia
@@ -57955,8 +57808,6 @@ SO:
   - Somalia
   - Somaleye
   - Somaali
-  - Romania
-  - I-Romaniya
 SR:
   translations:
     aa: 
@@ -59372,7 +59223,7 @@ SY:
     av: 
     ae: 
     ay: 
-    az: Mərkəzi Afrika Respublikası
+    az:
     ba: 
     bm: 
     eu: Siriako Arabiar Errepublika
@@ -59467,7 +59318,7 @@ SY:
     mr: "सिरियन अरब रिपब्लिक"
     ms: Syrian Arab Republic
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Төв африкын ард улс"
     na: 
@@ -59480,7 +59331,7 @@ SY:
     nb: Den arabiske republikk Syria
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର"
     om: 
@@ -59533,17 +59384,17 @@ SY:
     uk: "Сирійська Арабська Республіка"
     ur: 
     uz: 
-    ve: Central African Republic
+    ve:
     vi: Cộng hoà A-rập Xi-ri-a
     vo: 
     cy: Gweriniaeth Arabaidd Syria
     wa: Sireye
     wo: Republik Araab bu Siiri
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Siriese Arabiese Republiek
   - Republika Arabe e Sirisë
@@ -59551,7 +59402,6 @@ SY:
   - "الجمهوريّة العربيّة السّوريّة"
   - "Սիրիայի Արաբական Հանրապետություն"
   - "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
-  - Mərkəzi Afrika Respublikası
   - Siriako Arabiar Errepublika
   - "Сірыйская Арабская Рэспубліка"
   - "সিরিয়ান আরব প্রজাতন্ত্র"
@@ -59598,12 +59448,10 @@ SY:
   - Syrian Arab Republic
   - "सिरियन अरब रिपब्लिक"
   - Syrian Arab Republic
-  - Repubblika Dominikana
   - "Төв африкын ард улс"
   - "सिरियन अरब गणराज्य"
   - Syria
   - Den arabiske republikk Syria
-  - Republica Dominicana
   - "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର"
   - "ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ"
   - "جمهوری عربی سوریه"
@@ -59630,13 +59478,10 @@ SY:
   - Suriye Arap Cumhuriyeti
   - "سۈرىيە ئەرەب جۇمھۇرىيىتى"
   - "Сирійська Арабська Республіка"
-  - Central African Republic
   - Cộng hoà A-rập Xi-ri-a
   - Gweriniaeth Arabaidd Syria
   - Sireye
   - Republik Araab bu Siiri
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 SZ:
   translations:
     aa: 
@@ -59747,7 +59592,7 @@ SZ:
     mr: "स्वाझिलंड"
     ms: Swaziland
     mg: 
-    mt: Tajlandja
+    mt:
     mo: 
     mn: "Швецарь"
     na: 
@@ -59819,11 +59664,11 @@ SZ:
     cy: Swaziland
     wa: Suwazilande
     wo: Suwaasilaand
-    xh: Thailand
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Thayilandi
+    zu:
   translated_names:
   - Swaziland
   - Svaziland
@@ -59878,7 +59723,6 @@ SZ:
   - Swaziland
   - "स्वाझिलंड"
   - Swaziland
-  - Tajlandja
   - "Швецарь"
   - "स्वजिल्याण्ड"
   - Swaziland
@@ -59915,8 +59759,6 @@ SZ:
   - Swaziland
   - Suwazilande
   - Suwaasilaand
-  - Thailand
-  - I-Thayilandi
 TC:
   translations:
     aa: 
@@ -61427,7 +61269,7 @@ TJ:
     mr: "ताजिकिस्तान"
     ms: Tadjikistan
     mg: 
-    mt: Tajwan
+    mt:
     mo: 
     mn: "Тажикстан"
     na: 
@@ -61440,7 +61282,7 @@ TJ:
     nb: Tadsjikistan
     'no': 
     ny: 
-    oc: Taiwan
+    oc:
     oj: 
     or: "ତାଜୀକିସ୍ତାନ"
     om: 
@@ -61499,11 +61341,11 @@ TJ:
     cy: Tajikistan
     wa: Tadjikistan
     wo: Taajikistaan
-    xh: Taiwan
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I-Tayiwani
+    zu:
   translated_names:
   - Tadjikistan
   - Taxhikistani
@@ -61558,12 +61400,10 @@ TJ:
   - Tajikistan
   - "ताजिकिस्तान"
   - Tadjikistan
-  - Tajwan
   - "Тажикстан"
   - "ताजिकिस्तान"
   - Tadsjikistan
   - Tadsjikistan
-  - Taiwan
   - "ତାଜୀକିସ୍ତାନ"
   - "ਤਜ਼ਾਕਸਤਾਨ"
   - "تاجیکستان"
@@ -61595,8 +61435,6 @@ TJ:
   - Tajikistan
   - Tadjikistan
   - Taajikistaan
-  - Taiwan
-  - I-Tayiwani
 TK:
   translations:
     aa: 
@@ -62547,7 +62385,7 @@ TN:
     mr: "ट्युनिशिया"
     ms: Tunisia
     mg: 
-    mt: Russja
+    mt:
     mo: 
     mn: "Тунгус"
     na: 
@@ -62619,11 +62457,11 @@ TN:
     cy: Twnisia
     wa: Tunizeye
     wo: Tiniisi
-    xh: Rashiya
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Isi-Rashiya
+    zu:
   translated_names:
   - Tunisië
   - Tunizia
@@ -62678,7 +62516,6 @@ TN:
   - Tūnihia
   - "ट्युनिशिया"
   - Tunisia
-  - Russja
   - "Тунгус"
   - "टुनिसिया"
   - Tunisia
@@ -62715,8 +62552,6 @@ TN:
   - Twnisia
   - Tunizeye
   - Tiniisi
-  - Rashiya
-  - Isi-Rashiya
 TO:
   translations:
     aa: 
@@ -64227,7 +64062,7 @@ TZ:
     mr: "टांझानिया, युनायटेड रिपब्लिक ऑफ"
     ms: Tanzania, United Republic of
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Солонгос ард улс"
     na: 
@@ -64240,7 +64075,7 @@ TZ:
     nb: Tanzania, Forbundsrepublikken
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "ତାଞ୍ଜାନିଆ, ୟୁକ୍ରେନ ସଂଯୁକ୍ତ"
     om: 
@@ -64293,17 +64128,17 @@ TZ:
     uk: "Танзанія"
     ur: 
     uz: 
-    ve: Czech Republic
+    ve:
     vi: Nước Cộng Hoà Thống Nhất Than-xa-ni-a
     vo: 
     cy: Tanzania, Gweriniaeth Unedig
     wa: Tanzaneye
     wo: Taansaani, Republik bu bennoo bu
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
   - Tanzanië
   - Republika e Bashkuar e Tanzanisë
@@ -64358,12 +64193,10 @@ TZ:
   - Tānahia
   - "टांझानिया, युनायटेड रिपब्लिक ऑफ"
   - Tanzania, United Republic of
-  - Repubblika Dominikana
   - "Солонгос ард улс"
   - "तान्जानियाको संयक्त गणराज्यज्य"
   - Tanzania
   - Tanzania, Forbundsrepublikken
-  - Republica Dominicana
   - "ତାଞ୍ଜାନିଆ, ୟୁକ୍ରେନ ସଂଯୁକ୍ତ"
   - "ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ"
   - "تانزانیا، جمهوری متحده"
@@ -64390,13 +64223,10 @@ TZ:
   - Tanzanya Birleşik Cumhuriyeti
   - "تانزانىيە قوشما جۇمھۇرىيىتى"
   - "Танзанія"
-  - Czech Republic
   - Nước Cộng Hoà Thống Nhất Than-xa-ni-a
   - Tanzania, Gweriniaeth Unedig
   - Tanzaneye
   - Taansaani, Republik bu bennoo bu
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 UA:
   translations:
     aa: 
@@ -64787,7 +64617,7 @@ UG:
     mr: "युगांडा"
     ms: Uganda
     mg: 
-    mt: Kanada
+    mt:
     mo: 
     mn: "Уганда"
     na: 
@@ -64859,11 +64689,11 @@ UG:
     cy: Uganda
     wa: Ouganda
     wo: Ugaanda
-    xh: Canada
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I Khanada
+    zu:
   translated_names:
   - Uganda
   - Uganda
@@ -64918,7 +64748,6 @@ UG:
   - Ukānga
   - "युगांडा"
   - Uganda
-  - Kanada
   - "Уганда"
   - "उगान्डा"
   - Uganda
@@ -64955,8 +64784,6 @@ UG:
   - Uganda
   - Ouganda
   - Ugaanda
-  - Canada
-  - I Khanada
 UM:
   translations:
     aa: 
@@ -66640,7 +66467,7 @@ VE:
   translations:
     aa: 
     ab: 
-    af: Iran
+    af:
     ak: 
     sq: Republika Bolivariane e Venezuelës
     am: "ሥሔ፦ቲ"
@@ -66651,7 +66478,7 @@ VE:
     av: 
     ae: 
     ay: 
-    az: Koreya, Respublika
+    az:
     ba: 
     bm: 
     eu: Venezuela, Bolibartar Errepublika
@@ -66660,7 +66487,7 @@ VE:
     bh: 
     bi: 
     bs: Venecuela, Bolivarijska Republika
-    br: Republik Sokial eus Roumani
+    br:
     bg: "Венецуела, Боливарска република"
     my: 
     ca: Veneçuela, República Bolívariana de
@@ -66681,7 +66508,7 @@ VE:
     eo: Venezuelo, Bolivara Respubliko
     et: Venezuela Bolívari Vabariik
     ee: 
-    fo: Domingo lýðveldið
+    fo:
     fj: 
     fi: Venezuelan bolivariaanien tasavalta
     fr: Vénézuela, république bolivarienne du
@@ -66744,9 +66571,9 @@ VE:
     ml: "വെനിസ്വേല ബൊളിവേറിയന്‍ റിപ്പബ്ലിക്"
     mi: Wenehūera
     mr: "व्हेनेझुएला, बोलिवरिअन रिपब्लिक ऑफ"
-    ms: Republik Dominican
+    ms:
     mg: 
-    mt: Repubblika Dominikana
+    mt:
     mo: 
     mn: "Солонгос ард улс"
     na: 
@@ -66759,7 +66586,7 @@ VE:
     nb: Venezuela, Republikken
     'no': 
     ny: 
-    oc: Republica Dominicana
+    oc:
     oj: 
     or: "ଭେନେଜୁଏଲା, ବୋଲଭେରିଆନ ଗଣତନ୍ତ୍ର"
     om: 
@@ -66805,37 +66632,34 @@ VE:
     to: 
     tn: 
     ts: 
-    tk: Wýetnam Halk Respublikasy
+    tk:
     tr: Venezuella Bolivya Cumhuriyeti
     tw: 
     ug: "ۋېنېزۇئېلا جۇمھۇرىيىتى"
     uk: "Венесуела, Боліварська Республіка"
     ur: 
     uz: 
-    ve: Czech Republic
+    ve:
     vi: Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
     vo: 
     cy: Venezuela, Gweriniaeth Bolifaraidd
     wa: Venezwela, Republike Bolivaryinne do
     wo: Republik bu Bolibaar bu Benesuwela
-    xh: Ulawulo lokuziphatha kwe Dominican
+    xh:
     yi: 
     yo: 
     za: 
-    zu: Ulawulo lokuziphatha kwe Dominikhani
+    zu:
   translated_names:
-  - Iran
   - Republika Bolivariane e Venezuelës
   - "ሥሔ፦ቲ"
   - "جمهورية فنزويلا البوليفارية"
   - "Վենեսուելա, Բոլիվարական Հանրապետություն"
   - "ভেনেজুৱেলা, বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ"
-  - Koreya, Respublika
   - Venezuela, Bolibartar Errepublika
   - "Венесуэла, Баліварыянская Рэспубліка"
   - "ভেনেজুয়েলা, বোলিভারিয়ান প্রজাতন্ত্র"
   - Venecuela, Bolivarijska Republika
-  - Republik Sokial eus Roumani
   - "Венецуела, Боливарска република"
   - Veneçuela, República Bolívariana de
   - "委内瑞拉玻利瓦尔共和国"
@@ -66876,13 +66700,10 @@ VE:
   - "വെനിസ്വേല ബൊളിവേറിയന്‍ റിപ്പബ്ലിക്"
   - Wenehūera
   - "व्हेनेझुएला, बोलिवरिअन रिपब्लिक ऑफ"
-  - Republik Dominican
-  - Repubblika Dominikana
   - "Солонгос ард улс"
   - "गणराज्य, वेनेजुएला बोलिभेरियन"
   - Venezuela
   - Venezuela, Republikken
-  - Republica Dominicana
   - "ଭେନେଜୁଏଲା, ବୋଲଭେରିଆନ ଗଣତନ୍ତ୍ର"
   - "ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ"
   - "ونزوئلا، جمهوری بولیواری"
@@ -66905,17 +66726,13 @@ VE:
   - Bolivarian Republika ng Venezuela
   - "เวเนซุเอลา, สาธารณรัฐโบลีวาร์แห่ง"
   - "ዶሚኒክ ሪፑብሊክ"
-  - Wýetnam Halk Respublikasy
   - Venezuella Bolivya Cumhuriyeti
   - "ۋېنېزۇئېلا جۇمھۇرىيىتى"
   - "Венесуела, Боліварська Республіка"
-  - Czech Republic
   - Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
   - Venezuela, Gweriniaeth Bolifaraidd
   - Venezwela, Republike Bolivaryinne do
   - Republik bu Bolibaar bu Benesuwela
-  - Ulawulo lokuziphatha kwe Dominican
-  - Ulawulo lokuziphatha kwe Dominikhani
 VG:
   translations:
     aa: 
@@ -67306,7 +67123,7 @@ VI:
     mr: "व्हर्जिन आयलॅंडस्, यू.एस."
     ms: Virgin Islands, U.S.
     mg: 
-    mt: Finlandja
+    mt:
     mo: 
     mn: "Виржиний АНУ арлууд"
     na: 
@@ -67319,7 +67136,7 @@ VI:
     nb: Jomfruøyene (USA)
     'no': 
     ny: 
-    oc: Finlandia
+    oc:
     oj: 
     or: "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ଯୁକ୍ତରାଷ୍ଟ୍ର"
     om: 
@@ -67378,11 +67195,10 @@ VI:
     cy: Ynysoedd Virgin, U.D.A.
     wa: Iyes Viedjes etazunyinnes
     wo: Virgin Islands, U.S.
-    xh: Finland
-    yi: 
+    yi:
     yo: 
     za: 
-    zu: I-Finilandi
+    zu:
   translated_names:
   - Virgin Islands, U.S.
   - Ishujt Virgin, U.S.
@@ -67437,12 +67253,10 @@ VI:
   - Whinarana
   - "व्हर्जिन आयलॅंडस्, यू.एस."
   - Virgin Islands, U.S.
-  - Finlandja
   - "Виржиний АНУ арлууд"
   - "भर्जिन टापु, संयुक्त राज्य"
   - Jomfruøyane (USA)
   - Jomfruøyene (USA)
-  - Finlandia
   - "ଭର୍ଜିନ ଦ୍ବୀପପୁଞ୍ଜ, ଯୁକ୍ତରାଷ୍ଟ୍ର"
   - "ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ"
   - "جزایر ویرجین ایالات متحده"
@@ -67474,8 +67288,6 @@ VI:
   - Ynysoedd Virgin, U.D.A.
   - Iyes Viedjes etazunyinnes
   - Virgin Islands, U.S.
-  - Finland
-  - I-Finilandi
 VN:
   translations:
     aa: 
@@ -68492,7 +68304,7 @@ WS:
     uk: "Самоа"
     ur: 
     uz: 
-    ve: Cambodia
+    ve:
     vi: Xa-mô-a
     vo: 
     cy: Samoa
@@ -68589,7 +68401,6 @@ WS:
   - Samoa
   - "غەربىي ساموئا"
   - "Самоа"
-  - Cambodia
   - Xa-mô-a
   - Samoa
   - Samowa
@@ -69546,7 +69357,7 @@ ZM:
     mr: "झांबिया"
     ms: Zambia
     mg: 
-    mt: "Ġamajka"
+    mt:
     mo: 
     mn: "Замби"
     na: 
@@ -69618,11 +69429,11 @@ ZM:
     cy: Zambia
     wa: Zambeye
     wo: Saambi
-    xh: Jamaica
+    xh:
     yi: 
     yo: 
     za: 
-    zu: I Jamayikha
+    zu:
   translated_names:
   - Zambië
   - Zambia
@@ -69677,7 +69488,6 @@ ZM:
   - Zambia
   - "झांबिया"
   - Zambia
-  - "Ġamajka"
   - "Замби"
   - "जाम्बिया"
   - Zambia
@@ -69714,8 +69524,6 @@ ZM:
   - Zambia
   - Zambeye
   - Saambi
-  - Jamaica
-  - I Jamayikha
 ZW:
   translations:
     aa: 
