@@ -64894,7 +64894,7 @@ UM:
     mr: "युनायटेड स्टेटस् मायनॉर आऊटलायिंग आयलॅंडस्"
     ms: United States Minor Outlying Islands
     mg: 
-    mt: Stati Uniti
+    mt:
     mo: 
     mn: United States Minor Outlying Islands
     na: 
@@ -64966,11 +64966,11 @@ UM:
     cy: Mân Ynysoedd Pellenig yr Unol Daleithiau
     wa: Iyes mineures des Estats Unis
     wo: United States Minor Outlying Islands
-    xh: United States ye Melika
+    xh:
     yi: 
     yo: 
     za: 
-    zu: United States ye Melika
+    zu:
   translated_names:
   - United States Minor Outlying Islands
   - Ishujt e Vegjël Amerikanë
@@ -65025,7 +65025,6 @@ UM:
   - Amerika
   - "युनायटेड स्टेटस् मायनॉर आऊटलायिंग आयलॅंडस्"
   - United States Minor Outlying Islands
-  - Stati Uniti
   - United States Minor Outlying Islands
   - "संयुक्त राज्य माइनर आउट लाईङ टापु"
   - Mindre utanforliggjande øyar til USA
@@ -65062,8 +65061,6 @@ UM:
   - Mân Ynysoedd Pellenig yr Unol Daleithiau
   - Iyes mineures des Estats Unis
   - United States Minor Outlying Islands
-  - United States ye Melika
-  - United States ye Melika
 US:
   translations:
     aa: 
