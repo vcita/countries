@@ -4372,7 +4372,7 @@ AX:
     uk: "Аландські острови"
     ur: 
     uz: 
-    ve: Cayman Islands
+    ve:
     vi: Quần đảo A-lanh
     vo: 
     cy: Ynysoedd Åland
@@ -4467,7 +4467,6 @@ AX:
   - "Åland Adaları"
   - "ئالاند تاقىم ئاراللىرى"
   - "Аландські острови"
-  - Cayman Islands
   - Quần đảo A-lanh
   - Ynysoedd Åland
   - Iyes Åland
@@ -12755,7 +12754,7 @@ CK:
     uk: "Острови Кука"
     ur: 
     uz: 
-    ve: Solomon Islands
+    ve:
     vi: Quần đảo Khu-khợ
     vo: 
     cy: Ynysoedd Cook
@@ -12852,7 +12851,6 @@ CK:
   - Cook Adaları
   - "كۇك ئارىلى"
   - "Острови Кука"
-  - Solomon Islands
   - Quần đảo Khu-khợ
   - Ynysoedd Cook
   - Iyes Cook
@@ -15275,7 +15273,7 @@ CX:
     uk: "Острів Різдва"
     ur: 
     uz: 
-    ve: Cayman Islands
+    ve:
     vi: "Đảo Kh-ri-xợ-mà-xợ"
     vo: 
     cy: Ynys y Nadolig
@@ -15372,7 +15370,6 @@ CX:
   - Christmas Adası
   - "روژدېستۋو ئارىلى"
   - "Острів Різдва"
-  - Cayman Islands
   - "Đảo Kh-ri-xợ-mà-xợ"
   - Ynys y Nadolig
   - Iye Christmas
@@ -18625,7 +18622,7 @@ EH:
     uk: "Західна Сахара"
     ur: 
     uz: 
-    ve: Western Samoa
+    ve:
     vi: Tây Sa-ha-ra
     vo: 
     cy: Gorllewin Sahara
@@ -18722,7 +18719,6 @@ EH:
   - Batı Sahra
   - "غەربىي ساخارا"
   - "Західна Сахара"
-  - Western Samoa
   - Tây Sa-ha-ra
   - Gorllewin Sahara
   - Sara Coûtchantrece
@@ -22536,7 +22532,7 @@ GF:
     uk: "Французька Гвіана"
     ur: 
     uz: 
-    ve: French Polynesia
+    ve:
     vi: Ghi-a-na Pháp
     vo: 
     cy: Guiana Ffrangeg
@@ -22633,7 +22629,6 @@ GF:
   - Fransız Guyanası
   - "فىرانسىيەگە قاراشلىق گىۋىيانا"
   - "Французька Гвіана"
-  - French Polynesia
   - Ghi-a-na Pháp
   - Guiana Ffrangeg
   - Guyane francesse
@@ -52677,7 +52672,7 @@ RE:
     uk: "Реюньйон"
     ur: 
     uz: 
-    ve: 'Fhethu:'
+    ve:
     vi: Rê-u-ni-ợnh
     vo: 
     cy: Réunion
@@ -52774,7 +52769,6 @@ RE:
   - Réunion
   - "رېئونىيون"
   - "Реюньйон"
-  - 'Fhethu:'
   - Rê-u-ni-ợnh
   - Réunion
   - Reyunion
@@ -58243,9 +58237,9 @@ SS:
     sr: "Јужни Судан"
     ss: 
     su: 
-    sw: Lithuania
+    sw:
     sv: Sydsudan
-    ty: 
+    ty:
     ta: "சூடான் குடியரசு"
     tt: "Судан Җөмһүриәте"
     te: "రిపబ్లిక్ ఆఫ్ సుడాన్"
@@ -58264,7 +58258,7 @@ SS:
     uk: "Південний Судан"
     ur: 
     uz: 
-    ve: South Africa
+    ve:
     vi: Nam Xu-đăng
     vo: 
     cy: De Swdan
@@ -58349,7 +58343,6 @@ SS:
   - Koonfur Afrika
   - Sudán del Sur
   - "Јужни Судан"
-  - Lithuania
   - Sydsudan
   - "சூடான் குடியரசு"
   - "Судан Җөмһүриәте"
@@ -58361,7 +58354,6 @@ SS:
   - Güney Sudan
   - "جەنۇبىي سۇدان"
   - "Південний Судан"
-  - South Africa
   - Nam Xu-đăng
   - De Swdan
   - Soudan nonnrece
@@ -61891,7 +61883,7 @@ TL:
     uk: "Східний Тимор"
     ur: 
     uz: 
-    ve: Thoho
+    ve:
     vi: Thi-moa Le-xợ-te
     vo: 
     cy: Timor-Leste
@@ -61988,7 +61980,6 @@ TL:
   - Timor-Leste
   - "شەرقىي تىمور"
   - "Східний Тимор"
-  - Thoho
   - Thi-moa Le-xợ-te
   - Timor-Leste
   - Timor Ess
